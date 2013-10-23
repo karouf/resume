@@ -92,6 +92,22 @@ After about a year of operation, we are proud to be able to field a proper ameri
 
 ---
 
+**Co-founder and treasurer**  
+Ligue Poitou-Charentes de Football Américain (Regional Football League)  
+July 2013 – Present  
+Niort, France  
+
+The Poitou-Charentes league had been affiliated for a long time to the Aquitaine league because there was no real desire from the regional clubs to get organized and structure themselves into a proper league.
+Having founded the Pictes de Niort american football club, we thought it was time to get people together and think about the way we wanted to do things in our region.
+Following that discussion, everybody felt good about taking our future in our own hands and decided to found the Poitou-Charentes Regional American Football League.
+
+* Founded the league with representatives from other clubs
+* Participated in the process of writing the statutes of the league
+* Involved in the referees, young players and competition comities
+* Keeping accounting tidy
+
+---
+
 **Treasurer**  
 Dockers de Nantes Football Américain Association  
 July 2010 – June 2012  
