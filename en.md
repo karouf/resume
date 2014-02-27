@@ -28,13 +28,13 @@ Experience
 Horoquartz  
 September 2011 - Present  
 Fontenay le Comte, France  
+* Led the SaaS operations team
+* Introduced Kanban as a tool to manage its workload
+* Planned, specified, installed and configured tens of environments for our hosted customers
+* Prototyped a monitoring/central logging/measuring system using open source software: mainly Logstash, ElasticSearch and Graphite
 * Investigated and resolved performance and complex technical problems for a workforce management solution
 * Worked with R&D on the most complex issues
 * Been involved as a consultant in the development of an in-house diagnostic tool for support staff
-* Planned, specified, installed and configured tens of environments for our hosted customers
-* Led the SaaS operations department
-* Introduced Kanban as a tool to manage its workload
-* Prototyped a monitoring/central logging/measuring system using open source software: mainly Logstash, ElasticSearch and Graphite
 * Trained customers IT departments to the technical side of the product
 
 ---
