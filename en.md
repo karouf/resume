@@ -29,6 +29,7 @@ Horoquartz
 September 2011 - Present  
 Fontenay le Comte, France  
 * Led the SaaS operations team
+* Provided technical expertise to our TPAM department
 * Introduced Kanban as a tool to manage its workload
 * Planned, specified, installed and configured tens of environments for our hosted customers
 * Prototyped a monitoring/central logging/measuring system using open source software: mainly Logstash, ElasticSearch and Graphite
