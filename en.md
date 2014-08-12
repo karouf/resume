@@ -8,7 +8,7 @@ Skills
 
 * Programming: Ruby, Bash, PHP, Javascript
 * Networking: TCP/IP, routing
-* Databases: MySQL, Oracle, SQLite, Postgre
+* Databases: MySQL, Oracle, SQLite, PostgreSQL
 * Systems: Linux (Debian, Ubuntu, RHEL, CentOS), Mac OS X, AIX, HPUX
 * Web: HTML, CSS, Rails, Symfony2, Sinatra, Apache
 * Troubleshooting all of the above
