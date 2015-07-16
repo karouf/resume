@@ -1,15 +1,16 @@
 **Renaud Martinet**  
-karouf@gmail.com  
 Fontenay le Comte, France
 
 
 Skills
 ------
 
+* IT/web operations
+* Infrastructure management
+* Systems: Linux (Debian, Ubuntu, RHEL, CentOS), Mac OS X, AIX, HPUX
 * Programming: Ruby, Bash, PHP, Javascript
 * Networking: TCP/IP, routing
 * Databases: MySQL, Oracle, SQLite, PostgreSQL
-* Systems: Linux (Debian, Ubuntu, RHEL, CentOS), Mac OS X, AIX, HPUX
 * Web: HTML, CSS, Rails, Symfony2, Sinatra, Apache
 * Troubleshooting all of the above
 
@@ -50,6 +51,7 @@ Fontenay le Comte, France
 * Been on-site at customer's for sensitive installations or migrations, usually Linux related
 * Developed internal tools for support staff and management
 * Trained support staff on topics such as Linux, MySQL or LDAP integration with the product
+* Gave support staff English lessons
 
 ---
 
@@ -81,7 +83,7 @@ Volunteer Experience
 
 **Co-founder and treasurer**  
 Pictes Football Américain  
-January 2012 – Present  
+January 2012 – September 2014  
 Niort, France  
 
 Tired of driving one hour up to Nantes every week to practice, we decided with two friends also playing for the Dockers de Nantes to set up a new american football team in Niort which was the biggest city around without a club.
@@ -95,7 +97,7 @@ After about a year of operation, we are proud to be able to field a proper ameri
 
 **Co-founder and treasurer**  
 Ligue Poitou-Charentes de Football Américain (Regional Football League)  
-July 2013 – Present  
+July 2013 – July 2015  
 Niort, France  
 
 The Poitou-Charentes league had been affiliated for a long time to the Aquitaine league because there was no real desire from the regional clubs to get organized and structure themselves into a proper league.
@@ -126,7 +128,7 @@ It has teams in the senior (Y20), junior (U19) and cadet (U16) age groups as wel
 **Amateur Cartographer**  
 OpenStreetMap  
 November 2006 - October 2009  
-* Kicked off mapping in Clermont-Ferrand, Fontenay le Comte and Aberdeen
+* Kicked off mapping in Clermont-Ferrand, Fontenay le Comte (France) and Aberdeen (UK)
 * Participated in several mapping parties around France
 * Given the first ["State of France" presentation](http://vimeo.com/7024212) at OpenStreetMap State of the Map 2008 conference in Limerick, Ireland
 * Helped with other contributors to structure the French community
