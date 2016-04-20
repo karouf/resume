@@ -105,7 +105,7 @@ After about a year of operation, we are proud to be able to field a proper ameri
 
 * Founded the club with friends
 * Recruted about 30 people to be players, referees, cheerleaders or just behind the bar during games
-* Currently accounting for all the things
+* Balanced the books
 
 ---
 
@@ -121,7 +121,7 @@ Following that discussion, everybody felt good about taking our future in our ow
 * Founded the league with representatives from other clubs
 * Participated in the process of writing the statutes of the league
 * Involved in the referees, young players and competition comities
-* Keeping accounting tidy
+* Kept accounting tidy
 
 ---
 
