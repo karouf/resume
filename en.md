@@ -30,8 +30,8 @@ Horoquartz
 November 2015 - Present  
 Fontenay le Comte, France  
 * First member of the newly formed SaaS Infrastructure team.
-* Prototyped a service desk solution based on JIRA Service Desk to centralise all requests made to the team and manage internal customers expectations and SLAs. In fact building a framework that can support our processes and help us evolve them towards the ITIL guidelins. Pending management approval for implementation.
-* Rethought our monitoring system from the grounds up with a colleague from the Architecture team, focusing on collecting data first then analysing it for alerting, diagnostics and capacity planning purposes. A partial implementation using Heka, InfluxDB and Grafana is currently in test. Bosun is being considered for the alerting component.
+* Prototyped a service desk solution based on JIRA Service Desk to centralise all requests made to the team and manage internal customers expectations and SLAs. In fact building a framework that can support our processes and help us evolve them towards the ITIL guidelines. Pending management approval for implementation.
+* Rethought our monitoring system from the grounds up with a colleague from the Architecture team, focusing on collecting data first then analysing it for alerting, diagnostic and capacity planning purposes. A partial implementation using Heka, InfluxDB and Grafana is currently in test. Bosun is being considered for the alerting component.
 * Looked at Rundeck and Microsoft Orchestrator to find a tool that can be the central pillar of our self-service portal, allowing other teams to run jobs on our SaaS systems without our intervention but letting us manage authorization and have an audit trail.
 * Documented all my research and prototyping.
 * Supervised and administered 170+ hosted environments running our flagship application which is not multi-tenant, hence a different environment for each customer.
@@ -62,9 +62,9 @@ Fontenay le Comte, France
 * Resolved customers issues with both the workforce management web application and the card readers over the phone, sometimes through remote support
 * Analyzed and escalated new bugs to the R&D
 * Guided customers IT department through implementation of special needs like SSO or Outlook integration
-* Been on-site at customer's for sensitive installations or migrations, usually Linux related
+* Been on-site at customers for sensitive installations or migrations, usually Linux related
 * Developed internal tools for support staff and management
-* Trained support staff on topics such as Linux, MySQL or LDAP integration with the product
+* Trained support staff on topics such as Linux, MySQL, SSO or LDAP integration with the product
 * Gave support staff English lessons
 
 ---
@@ -95,13 +95,13 @@ Dublin, Ireland
 Volunteer Experience
 --------------------
 
-**Co-founder and treasurer**  
+**Co-founder, treasurer and player**  
 Pictes Football Américain  
 January 2012 – September 2014  
 Niort, France  
 
 Tired of driving one hour up to Nantes every week to practice, we decided with two friends also playing for the Dockers de Nantes to set up a new american football team in Niort which was the biggest city around without a club.
-After about a year of operation, we are proud to be able to field a proper american football team which is playing in the regional championship, quite unusual and a big achievement for a first-year team in France!
+After about a year of operation, we were proud to be able to field a proper american football team which was playing in the regional championship, quite unusual and a big achievement for a first-year team in France!
 
 * Founded the club with friends
 * Recruted about 30 people to be players, referees, cheerleaders or just behind the bar during games
@@ -120,12 +120,12 @@ Following that discussion, everybody felt good about taking our future in our ow
 
 * Founded the league with representatives from other clubs
 * Participated in the process of writing the statutes of the league
-* Involved in the referees, young players and competition comities
+* Involved in the referees, young players and competition committees
 * Kept accounting tidy
 
 ---
 
-**Treasurer**  
+**Treasurer and player**  
 Dockers de Nantes Football Américain Association  
 July 2010 – June 2012  
 Nantes, France  
